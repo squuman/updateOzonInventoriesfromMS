@@ -18,9 +18,7 @@ class MSClass
         'host' => 'https://api-seller.ozon.ru'
     ];
     private $arStocks = [
-        'https://online.moysklad.ru/api/remap/1.1/entity/store/0761dcb7-e5a1-11e7-7a69-9711001254ce' => 'Склад в Финляндии',
-        'https://online.moysklad.ru/api/remap/1.1/entity/store/a8639f91-3794-11ea-0a80-068b0009e1eb' => 'Товар не на маркете',
-        'https://online.moysklad.ru/api/remap/1.1/entity/store/f35401f7-2116-11e7-7a69-9711001158e3' => 'ТРК "Континент" Основной склад'
+        'url' => 'Storage',
     ];
 
     private $api;

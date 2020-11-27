@@ -1,0 +1,9 @@
+{
+    "require": {
+        "retailcrm/api-client-php": "~5.0",
+        "php-http/guzzle6-adapter": "^2.0",
+      "ext-curl": "*",
+        "gam6itko/ozon-seller": "^0.4.3",
+      "ext-json": "*"
+    }
+}

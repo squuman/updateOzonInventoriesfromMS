@@ -10,11 +10,11 @@ require_once(__DIR__ . '/vendor/autoload.php');
 
 class MSClass
 {
-    private $ms_login = 'admin@korolew';
-    private $ms_password = '7ea560f1f1cd';
+    private $ms_login = 'admin@login';
+    private $ms_password = 'pass';
     private $ozonConfig = [
-        'clientId' => '96412',
-        'apiKey' => '1ccd90f4-364c-4a32-b1d6-8091874db629',
+        'clientId' => 'id',
+        'apiKey' => 'key',
         'host' => 'https://api-seller.ozon.ru'
     ];
     private $arStocks = [
